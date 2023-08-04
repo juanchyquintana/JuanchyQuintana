@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Quintana Juan Diego / Hola, mi nombre es Quintana Juan Diego 👋
 
 <!--
 **juanchyquintana/JuanchyQuintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
