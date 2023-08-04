@@ -44,10 +44,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:quintanajuanchy25@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/juanchyquintana"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/juandiego.quintana.37"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Juan%20Diego%20Quintana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:quintanajuanchy25@gmail.com"><img src="https://img.shields.io/badge/-quintanajuanchy25@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/juanchyquintana"><img src="https://img.shields.io/badge/-@juanchyquintana-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/juandiego.quintana.37"><img src="https://img.shields.io/badge/-@juandiego.quintana.37-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
